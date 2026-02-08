@@ -1,3 +1,3 @@
 - ❄️ Hi, I’m @Snouuuflake
-- I'm a fourth-semester CE student from Mexico City
+- I'm a fifth-semester CE student from Mexico City
 - Current project is an Electron / React app for displaying lyrics and other media in houses of worship
